@@ -1,4 +1,4 @@
-﻿/*================================= 
+﻿/*=================================
         Font-Family's Start
   =================================*/
 @font-face {
@@ -22,7 +22,7 @@
 
 */
 
-/*================================= 
+/*=================================
         Font-Family's End
   =================================*/
 
@@ -36,7 +36,7 @@ html, body {
 }
 
 
-/*================================= 
+/*=================================
     Navbar Section Styling
   =================================*/
 
@@ -265,11 +265,11 @@ html, body {
 }
 
 .navbar {
-    padding: 24px 0 24px 0;
+    padding: 35px 0 35px 0;
 }
 
 
-/*================================= 
+/*=================================
        Abuot Section Styling
   =================================*/
 #about {
@@ -349,7 +349,7 @@ html, body {
         text-decoration: none;
         color: #ffffff;
     }
-/*================================= 
+/*=================================
        Service Section Styling
   =================================*/
 #services {
@@ -492,7 +492,7 @@ html, body {
     background-color: rgb(244, 46, 125);
     box-shadow: 2.5px 4.33px 10px 0px rgba(76, 76, 76, 0.75);
 }
-/*================================= 
+/*=================================
       Gallery Section Styling
   =================================*/
 #work .btn-filter {
@@ -501,6 +501,7 @@ html, body {
     font-size: 16px;
     color: #f42e7d;
     border-radius: 0;
+    margin: 0 -1px;
     text-transform: uppercase;
     background-color: rgb(247, 247, 247);
     box-shadow: 0.5px 0.866px 5px 0px rgba(0, 0, 0, 0.3);
@@ -602,7 +603,7 @@ html, body {
     text-decoration: none !important;
     color: #ffffff;
 }
-/*================================= 
+/*=================================
       Blog Section Styling
   =================================*/
 #blog-me {
@@ -648,6 +649,7 @@ html, body {
     font-size: 15px;
     color: #f42e7d;
     font-weight: 400;
+    text-transform: uppercase;
     font-family: 'Karla', sans-serif;
 }
 
@@ -655,6 +657,7 @@ html, body {
     font-size: 18px;
     color: #000000;
     font-weight: 400;
+    text-transform: uppercase;
     font-family: 'Karla', sans-serif;
 }
 
@@ -714,7 +717,7 @@ html, body {
     box-shadow: 2.5px 4.33px 5px 0px rgba(0, 0, 0, 0.48);
 }
 
-/*================================= 
+/*=================================
      Contact Us Section Styling
   =================================*/
 #contact {
@@ -776,7 +779,7 @@ html, body {
     box-shadow: 1px 1.732px 3px 0px rgba(0, 0, 0, 0.15),inset 2.5px 4.33px 5px 0px rgba(0, 0, 0, 0.25);
 }
 
-/*================================= 
+/*=================================
        Footer Section Styling
   =================================*/
 
@@ -870,7 +873,7 @@ html, body {
         font-family: 'Karla', sans-serif;
     }
 
-/*================================= 
+/*=================================
           Read More Styling
   =================================*/
 .comments-space {
@@ -1846,7 +1849,7 @@ button:focus {
     }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 415px) {
     .navbar {
         padding: 6px 10px 6px 10px;
     }
@@ -1916,7 +1919,7 @@ button:focus {
     }
 
     .slider-banner {
-        padding: 25px 25px;
+        padding: 25px 38px;
     }
 
     .text-banner {
@@ -1985,7 +1988,7 @@ button:focus {
 @media screen and (max-width: 411px) {
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 376px) {
     .slider-date {
         font-size: 14px;
     }
@@ -2013,7 +2016,7 @@ button:focus {
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 361px) {
     .slider-date {
         font-size: 14px;
     }
@@ -2052,7 +2055,7 @@ button:focus {
 @media screen and (max-width: 1024px) and (orientation: landscape) {
 }
 
-@media screen and (max-width: 823px) and (orientation: landscape) {
+@media screen and (max-width: 824px) and (orientation: landscape) {
     .navbar {
         padding: 6px 0 6px 0;
     }
@@ -2110,7 +2113,7 @@ button:focus {
     }
 
     .btn-position {
-        left: 32%;
+        left: 38%;
     }
 
     .who-text {
@@ -2401,7 +2404,7 @@ button:focus {
     }
 
     .slider-banner {
-        padding: 25px 25px;
+        padding: 11px 31px;
     }
 
     .text-banner {
